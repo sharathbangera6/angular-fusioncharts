@@ -29,3 +29,7 @@ To dive deeper, please view the [official documentation](http://www.fusioncharts
  - Offers advanced control by giving you access to full FusionCharts object. 
  - Has variety of ways to add a chart, from JSON URL to Scope Array Binding. 
  - Plenty of examples and good documentation.
+
+##Install this package from bower
+
+ - bower install angularFusionCharts --save
